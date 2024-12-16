@@ -40,7 +40,7 @@ body{
          }
       }
  .banner{
-    background-image: url("./banner_before_img.jpg");
+    background-image: url("./banner_img.jpg");
     height: 70vh;
     background-repeat: no-repeat;
     width: 100%;
