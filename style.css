@@ -40,7 +40,7 @@ body{
          }
       }
  .banner{
-    background-image: url("https://www.free-css.com/assets/files/free-css-templates/preview/page295/guarder/assets/images/hero-bg.jpg");
+    background-image: url("./background_image.jpg");
     height: 70vh;
     background-repeat: no-repeat;
     width: 100%;
